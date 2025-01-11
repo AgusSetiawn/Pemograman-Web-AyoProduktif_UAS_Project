@@ -48,17 +48,3 @@ Halaman ini menampilkan tugas-tugas yang ada dalam papan yang dipilih. Pengguna 
 
 #### Gambar Halaman Daftar Tugas:
 ![Halaman Daftar Tugas](path_to_image/list_page.png)
-
----
-
-## Cara Menjalankan Website
-
-### Prasyarat
-- Web server yang mendukung PHP (misalnya, XAMPP atau PHP built-in server).
-- Database MySQL untuk menyimpan data papan dan tugas.
-
-### Langkah-langkah untuk Menjalankan
-1. **Clone Repositori Ini**
-   ```bash
-   git clone https://github.com/username/ayo-produktif.git
-   cd ayo-produktif
