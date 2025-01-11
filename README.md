@@ -10,7 +10,7 @@ Ayo Produktif adalah sebuah website yang dirancang untuk membantu pengguna menin
 
 ## Struktur Halaman
 
-### 1. Halaman Utama (Landing Page)
+### 1. Halaman Utama
 
 Halaman utama berfungsi sebagai pengantar pengguna, dengan desain yang bersih dan latar belakang gradien bergerak.
 
@@ -19,11 +19,11 @@ Halaman utama berfungsi sebagai pengantar pengguna, dengan desain yang bersih da
 - **Tombol Aksi**: Tombol besar yang mengarah ke halaman daftar papan.
 
 #### Gambar Halaman Utama:
-![Halaman Utama](path_to_image/landing_page.png)
+![Tampilan Ayo Produktif](https://raw.githubusercontent.com/AgusSetiawn/Pemograman-Web-AyoProduktif_UAS_Project/main/Dokumentasi/Screenshot%20(97).png)
 
 ---
 
-### 2. Halaman Daftar Papan (board.php)
+### 2. Halaman Daftar Papan
 
 Pada halaman ini, pengguna dapat membuat papan baru dan melihat daftar papan yang ada. Setiap papan ditampilkan dalam card yang interaktif.
 
@@ -33,11 +33,11 @@ Pada halaman ini, pengguna dapat membuat papan baru dan melihat daftar papan yan
 - **Efek 3D pada Card**: Card papan memiliki desain dengan efek hover 3D.
 
 #### Gambar Halaman Daftar Papan:
-![Halaman Daftar Papan](path_to_image/board_page.png)
+![Tampilan Ayo Produktif](https://raw.githubusercontent.com/AgusSetiawn/Pemograman-Web-AyoProduktif_UAS_Project/main/Dokumentasi/Screenshot%20(98).png)
 
 ---
 
-### 3. Halaman Daftar Tugas dalam Papan (list.php)
+### 3. Halaman Daftar Tugas dalam Papan
 
 Halaman ini menampilkan tugas-tugas yang ada dalam papan yang dipilih. Pengguna dapat mengelola tugas sesuai kebutuhan.
 
@@ -47,4 +47,4 @@ Halaman ini menampilkan tugas-tugas yang ada dalam papan yang dipilih. Pengguna 
 - **Desain Responsif**: Menyesuaikan tampilan dengan berbagai ukuran layar.
 
 #### Gambar Halaman Daftar Tugas:
-![Halaman Daftar Tugas](path_to_image/list_page.png)
+![Tampilan Ayo Produktif](https://raw.githubusercontent.com/AgusSetiawn/Pemograman-Web-AyoProduktif_UAS_Project/main/Dokumentasi/Screenshot%20(99).png)
